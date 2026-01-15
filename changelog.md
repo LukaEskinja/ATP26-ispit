@@ -1,2 +1,3 @@
-#CHANGELOG
-## Verzija 1.0
+# CHANGELOG
+## Verzija 1.0 
+Dodani kjlučni elementi
