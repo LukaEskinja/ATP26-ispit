@@ -1,5 +1,7 @@
 # ATP26 Ispit
 Ispit temeljen na markdownu i githubu.
+(CHANGELOG)[]
+(LICENSE)[]
 
 ## User experience design
 
