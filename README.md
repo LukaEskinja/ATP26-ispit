@@ -1,9 +1,11 @@
 # ATP26 Ispit
 Ispit temeljen na markdownu i githubu.
 
-(CHANGELOG)[../changelog.md]
+(CHANGELOG)[ATP26-ispit
+/changelog.md]
 
-(LICENSE)[../license.md]
+(LICENSE)[ATP26-ispit
+/license.md]
 
 ## User experience design
 
