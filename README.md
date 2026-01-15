@@ -123,4 +123,15 @@ Numericki popis
 > The data gathered from user research helps designers understand user goals, behaviors, and pain points, which in turn informs design decisions throughout the product lifecycle
 > --Netko[25]
 
+[![UX Design – Introduction](https://img.youtube.com/vi/9B9s3QJkz9A/0.jpg)](https://www.youtube.com/watch?v=9B9s3QJkz9A)
+
+:user_experience: :sparkles: :rocket:
+
+> **Napomena**
+>  
+> User Experience Design nije samo vizualni dizajn –  
+> uključuje istraživanje korisnika, testiranje i iterativno poboljšavanje proizvoda.
+
+
+
 
